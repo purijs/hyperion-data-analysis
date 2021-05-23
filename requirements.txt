@@ -214,7 +214,7 @@ rio-l8qa==0.1.1
 rio-mucho==1.0.0
 rio-toa==0.3.0
 rope==0.16.0
-rsa==3.4.2
+rsa==4.7
 Rtree==0.9.3
 ruamel-yaml==0.15.87
 s2cloudless==1.4.0
